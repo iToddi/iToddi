@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcom to iToddi Repo! 👋
+
+Hi, My name is Todd, I am a software Development Engineer in Test (SDET) with well over a decade of expertise in test automation frameworks. I absolutly love learning new toolsets and libraries in order to create clean, fast, and reliable test automation suites for Web, Mobile, and APIs.
 
 <!--
 **iToddi/iToddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
