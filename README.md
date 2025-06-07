@@ -1,4 +1,4 @@
-## Welcom to iToddi Repo! 👋
+## Welcome to iToddi Repo! 👋
 
 Hi, My name is Todd, I am a software Development Engineer in Test (SDET) with well over a decade of expertise in test automation frameworks. I absolutly love learning new toolsets and libraries in order to create clean, fast, and reliable test automation suites for Web, Mobile, and APIs.
 
